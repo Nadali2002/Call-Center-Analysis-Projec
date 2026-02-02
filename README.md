@@ -11,7 +11,6 @@ An interactive **Call Centre Analytics Dashboard** designed to monitor call perf
 
 The Home page presents high‑level KPIs and visual summaries for quick insights.
 
-![Home Dashboard](./d9124777-258c-42d7-975a-3c2adc6dc0e6.png)
 
 **Key Metrics:**
 
