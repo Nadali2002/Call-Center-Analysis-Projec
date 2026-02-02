@@ -34,7 +34,7 @@ The Home page presents high‑level KPIs and visual summaries for quick insights
 
 The Grid page provides detailed, record‑level call data for deeper analysis.
 
-![Grid Dashboard](./ae18b41d-1350-40e9-b6dc-766b93353dc4.png)
+
 
 **Table Fields:**
 
